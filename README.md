@@ -1,5 +1,5 @@
 # hello-world
 hello-world
 
-kind regards
-17
+super kindly regards
+your g17
